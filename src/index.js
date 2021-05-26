@@ -1,12 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Game from './Game.js'
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import App from './App.js'
 
 ReactDOM.render(
-  <Game />,
+  <App />,
   document.getElementById('root')
 );
 
